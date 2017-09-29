@@ -1,4 +1,5 @@
 # VNPY-noVNC-DOCKER
+全部在浏览器里工作  \
 已编译好:CTP linux API vnpy1.7 noVNC 大小 total: 5.6G \
 VNPY镜像主要内涵：\
 DEBIAN/anaconda2.7 \
