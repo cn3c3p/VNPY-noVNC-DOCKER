@@ -18,3 +18,4 @@ EXPOSE 5900 8686 \
 端口启动：docker run -d -p 8686:8686 cn3c3p/vnpy1.7-pyqt5-anaconda2 \
 浏览器打开：  http://localhost:8686/ \
 输入密码PASSWORD：88888888 
+https://github.com/cn3c3p/VNPY-no-VNC-DOCKER/blob/master/34d5393b55dc%200%20%20%20noVNC(4).jpg
