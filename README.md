@@ -14,6 +14,6 @@ pycharm-community-2017.2.3. \
 端口：
 EXPOSE 5900 8686 \
 
-端口启动：docker run -d -p 8686:8686 cn3c3p/vnpy1.7-pyqt5-anaconda2
-浏览器打开：  http://localhost:8686/
-输入密码PASSWORD：88888888
+端口启动：docker run -d -p 8686:8686 cn3c3p/vnpy1.7-pyqt5-anaconda2 \
+浏览器打开：  http://localhost:8686/ \
+输入密码PASSWORD：88888888 
