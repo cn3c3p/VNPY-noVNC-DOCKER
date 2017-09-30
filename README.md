@@ -4,6 +4,8 @@ DOCKER 比虚拟机的好处是:启动快，占用内存小。
 
 我搞的CN3C3P/noVNC全部在浏览器里工作-----
 
+A docker that runs VNPY stock trading API (and more 还可以运行很多)
+
 已编译好:CTP linux API vnpy1.7   镜像大小 total: 5.1G
 
 VNPY-noVNC镜像主要有：
@@ -48,7 +50,13 @@ docker run -d -p 8686:8686 cn3c3p/vnpy-novnc
 
 http://localhost:8686
 
-默认密码PASSWORD：88888888
+默认密码(PASSWORD)：88888888
+
+运行VNPY：
+
+1）cd ./vnpy-1.7/examples/VnTrader
+
+2) python run.py
 
 
 Thanks！ Based on continuumio/anaconda:latest,VNPY
