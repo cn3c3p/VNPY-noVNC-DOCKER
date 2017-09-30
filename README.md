@@ -1,6 +1,7 @@
 # VNPY-noVNC-DOCKER
 
-DOCKER 比虚拟机的好处是启动快，占用内存小。
+DOCKER 比虚拟机的好处是:启动快，占用内存小。
+
 我搞的CN3C3P/noVNC全部在浏览器里工作-----
 
 已编译好:CTP linux API vnpy1.7   镜像大小 total: 5.1G
@@ -19,7 +20,7 @@ msgpack-python
 
 qdarkstyle
 
-汉语拼音输入
+汉语拼音输入fcitx-config-gtk
 
 xfce-4,gedit ,firefox, gcc-4.9 g++-4.9 cmake
 
