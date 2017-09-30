@@ -34,7 +34,7 @@ Xvfb -x11vnc -noNVC -Tigervnc
 
 How To With Docker Hub:
 
-下载用：
+下载在  https://hub.docker.com/r/cn3c3p/vnpy-novnc/
 
 docker pull cn3c3p/vnpy-novnc
 
