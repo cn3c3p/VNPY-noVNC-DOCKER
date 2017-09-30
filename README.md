@@ -6,7 +6,7 @@ DOCKER 比虚拟机的好处是:启动快，占用内存小。
 
 已编译好:CTP linux API vnpy1.7   镜像大小 total: 5.1G
 
-VNPY镜像主要有：
+VNPY-noVNC镜像主要有：
 
 Debian jessie 8/anaconda2.7
 
