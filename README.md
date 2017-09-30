@@ -6,7 +6,7 @@
 
 VNPY镜像主要有：
 
-DEBIAN/anaconda2.7
+Debian jessie 8/anaconda2.7
 
 pyqt5 \ qt5
 
