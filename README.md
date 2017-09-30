@@ -2,7 +2,7 @@
 
 全部在浏览器里工作
 
-已编译好:CTP linux API vnpy1.7 noVNC 大小 total: 5.1G
+已编译好:CTP linux API vnpy1.7   镜像大小 total: 5.1G
 
 VNPY镜像主要有：
 
