@@ -48,13 +48,8 @@ http://localhost:8686
 
 默认密码PASSWORD：88888888
 
-On DockerHub / GitHub
 
-https://github.com/cn3c3p/VNPY-noVNC-DOCKER/blob/master/34d5393b55dc%200%20%20%20noVNC(4).jpg
-
-https://github.com/cn3c3p/VNPY-noVNC-DOCKER/blob/master/34d5393b55dc%200%20%20%20noVNC(3).jpg
-
-Thanks！ Based on continuumio/anaconda:latest
+Thanks！ Based on continuumio/anaconda:latest,VNPY
 
 <img src="https://github.com/cn3c3p/VNPY-noVNC-DOCKER/blob/master/34d5393b55dc%200%20%20%20noVNC(4).jpg">
 
