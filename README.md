@@ -26,7 +26,7 @@ qdarkstyle
 
 xfce-4,gedit ,firefox, gcc-4.9 g++-4.9 cmake
 
-sublime
+sublime,Spyder
 
 可以安装运行suit to run：pycharm,WingIDE
 
@@ -64,3 +64,5 @@ Thanks！ Based on continuumio/anaconda:latest,VNPY
 <img src="https://github.com/cn3c3p/VNPY-noVNC-DOCKER/blob/master/34d5393b55dc%200%20%20%20noVNC(4).jpg">
 
 <img src="https://github.com/cn3c3p/VNPY-noVNC-DOCKER/blob/master/34d5393b55dc%200%20%20%20noVNC(3).jpg">
+
+<img src=https://github.com/cn3c3p/VNPY-noVNC-DOCKER/blob/master/6ef80dd86a51%200%20%20%20noVNC(1).jpg">
