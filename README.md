@@ -26,7 +26,8 @@ qdarkstyle
 
 xfce-4,gedit ,firefox, gcc-4.9 g++-4.9 cmake
 
-sublime,Spyder
+sublime,
+Spyder Updating 需要更新: pip install -U spyder
 
 可以安装运行suit to run：pycharm,WingIDE
 
@@ -52,9 +53,9 @@ http://localhost:8686
 
 默认密码(PASSWORD)：88888888
 
-运行VNPY：
+运行VNPY1.7.1：
 
-1）cd ./vnpy-1.7/examples/VnTrader
+1）cd ./vnpy-1.7.1/examples/VnTrader
 
 2) python run.py
 
