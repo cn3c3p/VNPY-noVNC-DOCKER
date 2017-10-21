@@ -6,13 +6,13 @@ DOCKER 比虚拟机的好处是:启动快，占用内存小。
 
 A docker that runs VNPY stock trading API (and more 还可以运行很多)
 
-已编译好:CTP linux API vnpy1.7   镜像大小 total: 5.1G
+已编译好:CTP linux API vnpy1.7.1,vnpy1.5   镜像大小 total: 4 G
 
 VNPY-noVNC镜像主要有：
 
 Debian jessie 8/anaconda2.7
 
-pyqt5 \ qt5
+pyqt4 \ qt4
 
 pymongo
 
