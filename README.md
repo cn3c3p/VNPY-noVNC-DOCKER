@@ -14,7 +14,7 @@ Debian jessie 8/anaconda2.7
 
 pyqt4 \ qt4
 
-pymongo
+pymongo    可以链接：docker pull mongo
 
 websocket-client
 
