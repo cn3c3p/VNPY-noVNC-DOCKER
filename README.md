@@ -8,7 +8,7 @@ A docker that runs VNPY stock trading API (and more 还可以运行很多)
 
 已编译好:CTP linux API vnpy1.7.1,vnpy1.5   镜像大小 total: 4 G
 
-cn3c3p/vnpy-novnc镜像里已经安装h好的内容包含有：
+cn3c3p/vnpy-novnc镜像里已经安装好的内容包含有：
 
 Debian jessie 8/anaconda2.7
 
