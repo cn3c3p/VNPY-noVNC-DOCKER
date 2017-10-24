@@ -2,7 +2,7 @@
 
 DOCKER 比虚拟机的好处是:启动快，占用内存小。
 
-我搞的CN3C3P/noVNC全部在浏览器里工作-----
+CN3C3P/noVNC全部在浏览器里工作-----
 
 A docker that runs VNPY stock trading API (and more 还可以运行很多其他用途---)
 
