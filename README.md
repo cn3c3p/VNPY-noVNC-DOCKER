@@ -51,7 +51,8 @@ docker run -d -p 8686:8686 cn3c3p/vnpy-novnc
 
 http://localhost:8686
 
-默认密码(PASSWORD)：88888888
+默认密码(VNC PASSWORD)：88888888
+可以通过 vncpasswd  更改vnc密码
 
 运行VNPY1.7.1：
 
